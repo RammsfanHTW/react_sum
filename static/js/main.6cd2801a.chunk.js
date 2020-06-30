@@ -1,2 +1,0 @@
-(this.webpackJsonpreact_sum=this.webpackJsonpreact_sum||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a),r=n(2),o=n.n(r),u=(n(8),function(e){var t=e.a,n=e.b;return c.a.createElement("h1",null," ","Sum of ".concat(t," and ").concat(n," = ").concat(t+n))});o.a.render(c.a.createElement(c.a.Fragment,null,c.a.createElement(u,{a:2,b:2}),c.a.createElement(u,{a:10,b:0}),c.a.createElement(u,{a:-5,b:5})),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.6cd2801a.chunk.js.map
